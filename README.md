@@ -1,5 +1,7 @@
 # 🧮 Basic Calculator
 
+**LIVE DEMO** https://jeevanantham10082003.github.io/Basic-Calculator/
+
 A simple and responsive calculator built using HTML, CSS, and JavaScript with keyboard support.
 
 ## 🚀 Features
